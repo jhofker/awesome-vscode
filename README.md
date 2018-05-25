@@ -25,3 +25,24 @@ A collection of VS Code extensions that make life better. At least, my life. The
 
 ### Other
 - [XML](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+
+## Quick Install
+Want to install all of these in your VS Code editor? Open it, open a terminal (`` Ctrl-` ``) and paste in:
+```
+code --install-extension 2gua.rainbow-brackets
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension dbaeumer.jshint
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension DotJoshJohnson.xml
+code --install-extension eamodio.gitlens
+code --install-extension EditorConfig.EditorConfig
+code --install-extension eg2.tslint
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.dotnet-test-explorer
+code --install-extension ms-vscode.csharp
+code --install-extension Leopotam.csharpfixformat
+code --install-extension oderwat.indent-rainbow
+code --install-extension PeterJausovec.vscode-docker
+code --install-extension rbbit.typescript-hero
+code --install-extension sandcastle.whitespace
+```
