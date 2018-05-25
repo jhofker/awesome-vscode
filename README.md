@@ -2,17 +2,17 @@
 A collection of VS Code extensions that make life better. At least, my life. These are what I use day-to-day. Have a better one? Open a PR!
 
 ### Editor
-- [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 - [Docker](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 - [Whitespace](https://marketplace.visualstudio.com/items?itemName=sandcastle.whitespace)
 
 ### JS Language Improvements
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Import-Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ### C# Language Improvements
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
@@ -24,6 +24,8 @@ A collection of VS Code extensions that make life better. At least, my life. The
 - [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 
 ### Other
+- [Markdown All-in-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+- [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [XML](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
 
 ## Quick Install
@@ -45,4 +47,6 @@ code --install-extension oderwat.indent-rainbow
 code --install-extension PeterJausovec.vscode-docker
 code --install-extension rbbit.typescript-hero
 code --install-extension sandcastle.whitespace
+code --install-extension yzhang.markdown-all-in-one
+code --install-extension vscode-markdownlint
 ```
