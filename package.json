@@ -2,13 +2,15 @@
   "name": "awesome-vscode",
   "displayName": "awesome-vscode",
   "description": "A collection of useful VSCode extensions.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "jhofker",
   "repository": "https://github.com/jhofker/awesome-vscode",
   "engines": {
     "vscode": "^1.23.0"
   },
-  "categories": ["Extension Packs"],
+  "categories": [
+    "Extension Packs"
+  ],
   "extensionDependencies": [
     "2gua.rainbow-brackets",
     "christian-kohler.npm-intellisense",
@@ -21,12 +23,14 @@
     "eg2.tslint",
     "esbenp.prettier-vscode",
     "formulahendry.dotnet-test-explorer",
+    "github.vscode-pull-request-github",
     "Leopotam.csharpfixformat",
     "ms-vscode.csharp",
     "oderwat.indent-rainbow",
     "PeterJausovec.vscode-docker",
     "rbbit.typescript-hero",
     "sandcastle.whitespace",
+    "streetsidesoftware.code-spell-checker",
     "yzhang.markdown-all-in-one"
   ]
 }
