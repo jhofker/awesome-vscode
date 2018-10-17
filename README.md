@@ -19,10 +19,12 @@ A collection of VS Code extensions that make life better. At least, my life. The
 - [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
 - [Import-Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 ### C# Language Improvements
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+- [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions)
 - [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat)
 - [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 
