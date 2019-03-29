@@ -1,3 +1,8 @@
+## 1.3.0
+
+- Update to use `extensionPack`
+- Adds `alexkrechik.cucumberautocomplete`
+
 ## 1.2.0
 
 - Adds `jchannon.csharpextensions` and `debugger-for-chrome`
