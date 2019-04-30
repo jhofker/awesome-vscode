@@ -1,6 +1,7 @@
-## 1.4.0
+## 1.4.1
 
 - Adds `jacobcofman.changelog`
+- Moves from `eg2.tslint` to `ms-vscode.vscode-typescript-tslint-plugin`
 
 ## 1.3.0
 

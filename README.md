@@ -30,11 +30,11 @@ A collection of VS Code extensions that make life better. At least, my life. The
 
 ### TS Language Improvements
 
-- [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
+- [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin)
 - [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero)
 
 ### Other
-
+- [Changelog](https://marketplace.visualstudio.com/items?itemName=JacobCofman.changelog)
 - [Markdown All-in-One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 - [Markdown Lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 - [XML](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
