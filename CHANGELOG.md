@@ -1,3 +1,8 @@
+## 1.5.0
+
+- Moves from `PeterJausovec.vscode-docker` to `ms-azuretools.vscode-docker`
+- Removes `Leopotam.csharpfixformat` as Omnisharp seems to be working now.
+
 ## 1.4.1
 
 - Adds `jacobcofman.changelog`
