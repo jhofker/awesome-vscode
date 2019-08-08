@@ -1,5 +1,7 @@
 # awesome-vscode
 
+![](https://img.shields.io/visual-studio-marketplace/v/jhofker.awesome-vscode)
+
 A collection of VS Code extensions that make life better. At least, my life. These are what I use day-to-day. Have a better one? Open a PR!
 
 ## Contents
