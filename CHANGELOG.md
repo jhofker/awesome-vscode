@@ -1,3 +1,7 @@
+## 1.6.0
+
+- Adds `k--kato.docomment`
+
 ## 1.5.0
 
 - Moves from `PeterJausovec.vscode-docker` to `ms-azuretools.vscode-docker`

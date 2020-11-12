@@ -2,7 +2,7 @@
   "name": "awesome-vscode",
   "displayName": "awesome-vscode",
   "description": "A collection of useful VSCode extensions.",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "publisher": "jhofker",
   "repository": "https://github.com/jhofker/awesome-vscode",
   "engines": {
@@ -24,6 +24,7 @@
     "esbenp.prettier-vscode",
     "formulahendry.dotnet-test-explorer",
     "github.vscode-pull-request-github",
+    "k--kato.docomment",
     "jacobcofman.changelog",
     "jchannon.csharpextensions",
     "ms-vscode.csharp",
